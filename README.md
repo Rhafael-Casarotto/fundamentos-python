@@ -5,11 +5,11 @@ Meus estudos em Python
 Projeto criado para praticar os fundamentos da linguagem Python, como entrada de dados, listas, formatação de texto e funções basicas.
 
 ## Conteudos praticados
-- Operações matematicas, incluindo numeros inteiros e decimais
-- Formatação de strings
-- Variaveis
-- Input
-- listas
+- fundamentos.py - conceitos gerais
+- inputs.py - entrada de dados
+- listas.py - manipulação de listas
+- strings.py - operações com strings
+
 
 ## Tecnologias
 - Python 3
