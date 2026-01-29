@@ -9,7 +9,7 @@ Projeto criado para praticar os fundamentos da linguagem Python, como entrada de
 - inputs.py - entrada de dados
 - listas.py - manipulação de listas
 - strings.py - operações com strings
-- if_log_cond.py - condição/comparação
+- condicionais.py - "if/else"
 
 
 ## Tecnologias
