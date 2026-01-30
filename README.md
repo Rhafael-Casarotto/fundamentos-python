@@ -2,7 +2,7 @@
 Meus estudos em Python
 
 ## Descrição
-Projeto criado para praticar os fundamentos da linguagem Python, como entrada de dados, listas, formatação de texto e funções basicas.
+Projeto criado para praticar os fundamentos da linguagem Python, com o foco em lógica de programação, manipulação de dados e estruturação de codigo.
 
 ## Conteudos praticados
 - fundamentos.py - conceitos gerais
