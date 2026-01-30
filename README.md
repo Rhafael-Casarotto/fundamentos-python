@@ -11,6 +11,7 @@ Projeto criado para praticar os fundamentos da linguagem Python, com o foco em l
 - strings.py - operações com strings
 - condicionais.py - "if/else"
 - loop.py - "for"
+- relatorio_vendas.py - projeto de estudo
 
 
 ## Tecnologias
