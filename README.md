@@ -10,6 +10,7 @@ Projeto criado para praticar os fundamentos da linguagem Python, como entrada de
 - listas.py - manipulação de listas
 - strings.py - operações com strings
 - condicionais.py - "if/else"
+- loop.py - "for"
 
 
 ## Tecnologias
