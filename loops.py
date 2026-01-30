@@ -1,3 +1,5 @@
+# Este arquivo contem exemplos de de loops "for"
+# Objetivo: Treinar repetições e iteração sobre listas
 # for = usado para fazer repetições no Python
 
 lista_vendas = [1200, 900, 2300, 1450, 2550]
@@ -18,6 +20,7 @@ for vendas in lista_vendas:
     else:
         print("Não atingiu a meta")
 # fiquei feliz em fazer essa linha de codigo sozinho, pois analisei o estudo de ontem, as condicionais e incorporei no cod.
+
 
 
 
