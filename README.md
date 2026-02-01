@@ -12,6 +12,8 @@ Projeto criado para praticar os fundamentos da linguagem Python, com o foco em l
 - condicionais.py - "if/else"
 - loops.py - "for"
 - relatorio_vendas.py - projeto de estudo
+- calculadora.py - projeto de estudo
+- sistem_notas.py - projeto de estudo
 
 
 ## Como executar
