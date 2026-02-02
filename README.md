@@ -14,6 +14,7 @@ Projeto criado para praticar os fundamentos da linguagem Python, com o foco em l
 - relatorio_vendas.py - projeto de estudo
 - calculadora.py - projeto de estudo
 - sistem_notas.py - projeto de estudo
+- funções.py - estudo de funções, "def"
 
 
 ## Como executar
