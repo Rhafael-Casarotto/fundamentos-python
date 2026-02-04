@@ -15,6 +15,7 @@ Projeto criado para praticar os fundamentos da linguagem Python, com o foco em l
 - calculadora.py - projeto de estudo
 - sistem_notas.py - projeto de estudo
 - funções.py - estudo de funções, "def"
+- while_lista.py - estudo de loops com "while"
 
 
 ## Como executar
