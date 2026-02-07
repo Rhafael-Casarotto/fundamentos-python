@@ -20,7 +20,7 @@ if len(vendas) > 0:
     print(f"Quantidade de vendas: {quantidade}")
     print(f"Média por venda: R${media:.2f}")
     print("Vendas registradas:", vendas)
-    # Aqui os desafios:D
+    
     print("A maior venda foi: ", max(vendas))
     print("A menor venda foi: ", min(vendas))
 
@@ -34,6 +34,7 @@ if len(vendas) > 0:
             print("Vendas acima da média:", vendas_acima_media)
 else:
     print("Nenhuma venda cadastrada.")
+
 
 
 
